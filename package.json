@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-luisleonjeremy",
+  "version": "1.0.0",
+  "description": "- here goes the github action - change repository visibility to public (go to settings/manage access)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-luisleonjeremy.git"
+  },
+  "keywords": [],
+  "author": "alu0101244587 <jeremymluisleon@icloud.com> (https://github.com/luisleonjeremy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-luisleonjeremy/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-luisleonjeremy#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
